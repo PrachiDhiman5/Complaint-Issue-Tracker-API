@@ -70,6 +70,7 @@ complaint-api/
   "description": "Complaint description",
   "status": "open"
 }
+```
 
 
 ## 🔐 Middleware Used
